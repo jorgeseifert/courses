@@ -1,3 +1,4 @@
+[![Board Status](https://jorgeseifert.visualstudio.com/f2cc98b2-c8c3-4511-b3b3-a4be1cfb5012/347943b3-023a-404e-86c3-7e58ba0aaa74/_apis/work/boardbadge/4bcbd369-e60e-4747-84ea-c37a98a7fea9)](https://jorgeseifert.visualstudio.com/f2cc98b2-c8c3-4511-b3b3-a4be1cfb5012/_boards/board/t/347943b3-023a-404e-86c3-7e58ba0aaa74/Microsoft.RequirementCategory)
 
 ### Data Science Specialization
 
